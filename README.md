@@ -1,6 +1,6 @@
 # Parking Receipt Management & Revenue Analysis
 
-A Python data-analysis project that generates synthetic parking records, cleans the data, creates parking receipts, and calculates revenue, occupancy, payment, and vehicle-type insights.
+A Python data-analysis project prepared by Ayush Singh of Btech_ECE-1 in collaboration with DATA Analyst internship program under HCLtech, that generates synthetic parking records, cleans the data, creates parking receipts, and calculates revenue, occupancy, payment, and vehicle-type insights.
 
 The project uses a reproducible dataset covering January to June 2026 and is designed for a parking lot with 15 slots: 6 Bike, 6 Car, and 3 SUV slots.
 
